@@ -79,7 +79,7 @@ _Gokarneshwor, Kathmandu, Nepal | Jun 2012 – Nov 2014_
 
 ## 📊 GitHub Stats
 
-![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikrambhujel&show_icons=true&theme=default)
+![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikrambhujel&show_icons=true&theme=dark)
 
 ---
 
