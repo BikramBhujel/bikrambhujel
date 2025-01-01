@@ -94,5 +94,11 @@ _Gokarneshwor, Kathmandu, Nepal | Jun 2012 – Nov 2014_
 
 ![Snake animation](https://github.com/bikrambhujel/bikrambhujel/blob/output/snake.svg)
 
+###
 
-*Note: Update placeholders like `your-github-username`, `your-image-url.com/banner.png`, and `your.email@example.com` with your actual details.*
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
