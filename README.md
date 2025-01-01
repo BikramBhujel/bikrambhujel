@@ -83,10 +83,18 @@ _Gokarneshwor, Kathmandu, Nepal | Jun 2012 – Nov 2014_
 
 ---
 
+
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/bikrambhujel](https://www.linkedin.com/in/bikrambhujel)  
-- **Email:** info@bikrambhujel.com.np  
+| LinkedIn | Email | Twitter |
+|----------|-------|---------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikrambhujel) | [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@bikrambhujel.com.np) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b_bhujel94) |
+
+
+
+
+
+
 
 ---
 
