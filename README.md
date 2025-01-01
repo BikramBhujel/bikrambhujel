@@ -1,4 +1,4 @@
-![Bikram Bhujel](https://your-image-url.com/banner.png)
+![Bikram Bhujel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkgulH7Dl_RSmQ7xs64whN3gg2TK5hIJde-sQuqECEwupvnXyTKpBIVIUkpuSqwDzv-DML3-fqvNCtt9UAFV_4y8k8ghaTXvOvak3iDmn7ZEBOU0KdXMkcMqapvzbagJ2cOdoG27zBQgdh/s1600/logo+small+for+blogger.png)
 
 # Hi there, I'm Bikram Bhujel 👋
 
