@@ -94,7 +94,7 @@ _Gokarneshwor, Kathmandu, Nepal | Jun 2012 – Nov 2014_
 
 <br clear="both">
 
-![Snake animation](https://github.com/bikrambhujel/bikrambhujel/blob/output/snake.svg)
+![Snake animation](https://github.com/BikramBhujel/BikramBhujel/blob/output/snake.svg)
 
 ###
 
